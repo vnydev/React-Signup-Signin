@@ -1,0 +1,15 @@
+.signin-container {
+  width: 100%;
+  max-width: 300px;
+  padding: 2%;
+  margin: 0px auto;
+}
+
+.signin-container .signin {
+  max-width: 300px;
+}
+
+.signin-container .signin-btn {
+  margin-right: 1%;
+}
+

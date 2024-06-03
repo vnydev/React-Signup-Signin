@@ -1,0 +1,15 @@
+.singup-container {
+  width: 100%;
+  max-width: 300px;
+  padding: 2%;
+  margin: 0px auto;
+}
+
+.singup-container .singup {
+  max-width: 300px;
+}
+
+.singup-container .singup-btn {
+  margin-right: 1%;
+}
+
